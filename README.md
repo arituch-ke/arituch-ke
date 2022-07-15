@@ -26,4 +26,6 @@
 <a href="https://github.com/anon-kae?tab=followers"><img src="https://img.shields.io/github/followers/anon-kae?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Anon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anon-kae&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anon-kae&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+56
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon-kae&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
