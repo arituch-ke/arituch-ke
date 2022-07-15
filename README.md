@@ -24,3 +24,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/anon-kae?tab=followers"><img src="https://img.shields.io/github/followers/anon-kae?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Anon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anon-kae&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
