@@ -1,4 +1,4 @@
-## <a href="#"><img width="100%" height="auto" src="https://sites.google.com/a/samakkhi.ac.th/alpaca-245/_/rsrc/1537502282825/khwam-cheux-keiyw-kab-xal-pak-a/07.jpg" height="175px"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anon</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Thailand.</h3>
