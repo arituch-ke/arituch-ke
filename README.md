@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on SECPlayground **[Cybersecurity Learning Platform](https://www.secplayground.com/)**
 
-- 🌱 I’m currently learning **Web3.0**
-
 - 📫 How to reach me **anon.ksl42@gmail.com**
 
 - ⚡ Fun fact **I play games. I like watch anime. And I'm always looking for new knowledge.**
