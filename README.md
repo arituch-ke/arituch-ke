@@ -1,4 +1,3 @@
-[Live Demo](https://cdb4-184-22-102-20.ngrok-free.app)
 <h1>Hi 👋,  I'm Arituch</h1>
 <p>Code is my magic wand, crafting the extraordinary from the ordinary.</p>
 <h2>🚀 Languages and Tools I Use</h2>
